@@ -1,0 +1,1 @@
+О том как пользоваться [читаем тут](http://tvorzasp.com/blog/graber-knijek-s-flibusty-na-python-i-nemnogo-go/)
